@@ -28,7 +28,3 @@ The repository supports both **call** and **put** options for each barrier type.
 ## License
 
 [MIT License](LICENSE)
-
----
-
-This structure is user-friendly and provides clear details about the repository's purpose and usage.
